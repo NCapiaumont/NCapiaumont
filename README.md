@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas CAPIAUMONT
 - 👀 I’m interested in development, hacking and aeronautic
-- 🌱 I’m currently learning hacking
+- 🌱 I’m currently learning hacking and prepare CPL(H)
 - 💞️ I’m looking to collaborate on collaborative project
 - 📫 How to reach me : https://www.linkedin.com/in/nicolascapiaumont/
